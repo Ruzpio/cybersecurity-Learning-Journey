@@ -1,7 +1,7 @@
 ## Day 2 — Types of Hackers
 
 **Topic:** Hacker Classifications  
-**Date:** [17/3/206]
+**Date:** 17/3/2026
 
 ### What I Learned
 - **White Hat** – Ethical hackers. Operate legally with permission.
